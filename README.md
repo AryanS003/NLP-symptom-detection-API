@@ -1,1 +1,1 @@
-# nlp-symptom-detection-chatbot
+# NLP-symptom-detection-chatbot
